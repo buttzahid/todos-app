@@ -1,0 +1,17 @@
+header {
+    background-color: #eee;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    padding: 10px 5px;
+}
+
+header .brand img {
+    width: 50px
+}
+
+header nav a {
+    padding: 10px 20px
+}
